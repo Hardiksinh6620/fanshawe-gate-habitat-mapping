@@ -1,0 +1,17 @@
+[
+  {
+    "id": "EX-1",
+    "habitat": "example grassland",
+    "area_m2": 100
+  },
+  {
+    "id": "EX-2",
+    "habitat": "example grassland",
+    "area_m2": 200
+  },
+  {
+    "id": "EX-3",
+    "habitat": "example woodland",
+    "area_m2": 100
+  }
+]
